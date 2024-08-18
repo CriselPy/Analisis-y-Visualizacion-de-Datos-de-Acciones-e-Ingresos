@@ -130,3 +130,27 @@ Puedes añadir badges a tu README para mostrar información relevante sobre tu p
 3. **Enlaces a Recursos**: Puedes añadir enlaces a tutoriales, documentación o recursos externos que puedan ser útiles para entender mejor el proyecto o para aprender sobre las tecnologías utilizadas.
 
 Recuerda actualizar los enlaces y rutas de las imágenes según corresponda a tu proyecto y estructura de carpetas. ¡Espero que esto te ayude a tener un README.md completo y atractivo para tu repositorio en GitHub!
+# Análisis y Visualización de Datos de Acciones e Ingresos
+
+Descripción breve del proyecto.
+
+## Badges
+
+### Estado del Build
+![Estado del Build](https://img.shields.io/github/workflow/status/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos/Build)
+
+### Licencia
+![Licencia](https://img.shields.io/github/license/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos)
+
+### Último Commit
+![Último Commit](https://img.shields.io/github/last-commit/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos)
+
+### Versión del Proyecto
+![Versión](https://img.shields.io/github/v/release/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos)
+
+### Número de Estrellas
+![Estrellas](https://img.shields.io/github/stars/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos)
+
+### Descargas del Paquete (Si aplica)
+![Descargas](https://img.shields.io/pypi/dm/tu_paquete)
+
