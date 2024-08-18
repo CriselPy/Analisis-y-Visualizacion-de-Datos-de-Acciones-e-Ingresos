@@ -1,13 +1,11 @@
-# Análisis y Visualización de Datos de Acciones e Ingresos
-
-Este proyecto analiza y visualiza datos históricos de precios de acciones e ingresos trimestrales para Tesla y GameStop. Utiliza `yfinance` para datos de acciones y técnicas de web scraping para ingresos, y presenta gráficos comparativos interactivos para ilustrar las tendencias en estos dos aspectos.
-
-## Badges
 ![Estado del Build](https://img.shields.io/github/workflow/status/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos/Build)
 ![Licencia](https://img.shields.io/github/license/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos)
 ![Último Commit](https://img.shields.io/github/last-commit/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos)
 ![Versión](https://img.shields.io/github/v/release/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos)
 ![Estrellas](https://img.shields.io/github/stars/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos)
+# Análisis y Visualización de Datos de Acciones e Ingresos
+
+Este proyecto analiza y visualiza datos históricos de precios de acciones e ingresos trimestrales para Tesla y GameStop. Utiliza `yfinance` para datos de acciones y técnicas de web scraping para ingresos, y presenta gráficos comparativos interactivos para ilustrar las tendencias en estos dos aspectos.
 
 ## Tabla de Contenidos
 1. [Introducción](#introducción)
