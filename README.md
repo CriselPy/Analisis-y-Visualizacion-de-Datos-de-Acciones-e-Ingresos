@@ -29,14 +29,12 @@ Este proyecto utiliza las siguientes bibliotecas de Python:
 
 Instala las dependencias con el siguiente comando:
 
-```bash
-pip install yfinance requests beautifulsoup4 pandas plotly
+    ```bash pip install yfinance requests beautifulsoup4 pandas plotly
 
-```markdown
 ### 5. Instalación
 
 **Instrucciones de Instalación:**
-```markdown
+
 ## Instalación
 1. Clona el repositorio:
 
@@ -44,20 +42,20 @@ pip install yfinance requests beautifulsoup4 pandas plotly
    git clone https://github.com/tu_usuario/tu_repositorio.git
    cd tu_repositorio
 
-```markdown
+
 2. Instala las dependencias:
 
    ```bash
    pip install -r requirements.txt
-```markdown
+
 Si estás utilizando un entorno de Anaconda, puedes instalar las dependencias directamente desde el archivo requirements.txt usando:
-   ```bash
+    ```bash
    conda install --file requirements.txt
-```markdown
+
 ### 6. Uso
 
 **Guía de Uso:**
-```markdown
+
 ## Uso
 Para ejecutar el análisis y generar gráficos, sigue estos pasos:
 
