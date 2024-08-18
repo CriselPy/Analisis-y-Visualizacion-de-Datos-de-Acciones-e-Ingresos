@@ -29,6 +29,7 @@ Este proyecto tiene como objetivo analizar y visualizar la evolución histórica
  :target: https://mybinder.org/v2/gh/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos/blob/main/An%C3%A1lisis%20de%20Datos%20Hist%C3%B3ricos%20de%20Ingresos%20y%20Creaci%C3%B3n%20de%20un%20Cuadro%20de%20Mando.ipynb/CABEZA
 ## Binder
 Puedes ejecutar este proyecto directamente en un entorno interactivo en [Binder]([https://mybinder.org/v2/gh/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos/blob/main/An%C3%A1lisis%20de%20Datos%20Hist%C3%B3ricos%20de%20Ingresos%20y%20Creaci%C3%B3n%20de%20un%20Cuadro%20de%20Mando.ipynb/CABEZA](https://mybinder.org/v2/gh/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos/blob/main/An%C3%A1lisis%20de%20Datos% 20Hist%C3%B3ricos%20de%20Ingresos%20y%20Creaci%C3%B3n%20de%20un%20Cuadro%20de%20Mando.ipynb/CABEZA)). Esto te permitirá interactuar con el notebook sin necesidad de instalar nada en tu máquina local.
+https://mybinder.org/v2/gh/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos/HEAD?filepath=An%C3%A1lisis%20de%20Datos%20Hist%C3%B3ricos%20de%20Ingresos%20y%20Creaci%C3%B3n%20de%20un%20Cuadro%20de%20Mando.ipynb
 
 ## Requisitos
 Este proyecto utiliza las siguientes bibliotecas de Python:
