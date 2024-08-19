@@ -1,6 +1,12 @@
 ![Licencia](https://img.shields.io/github/license/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos)
 ![Último Commit](https://img.shields.io/github/last-commit/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos)
 ![Estrellas](https://img.shields.io/github/stars/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos)
+<a href="https://github.com/CriselPy" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/cristina-ortega-451750275/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 # Análisis y Visualización de Datos de Acciones e Ingresos
 
@@ -92,7 +98,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ## Contacto
 
-Para cualquier pregunta o comentario, contacta a [Cristina Ortega Trujillo].
+Para cualquier pregunta o comentario, contacta a <p style="color: #FF6347;"> Cristina Ortega Trujillo</p>
 
 <a href="https://github.com/CriselPy" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
