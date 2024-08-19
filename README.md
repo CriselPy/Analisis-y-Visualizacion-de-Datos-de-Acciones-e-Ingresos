@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/octocat?style=social)](https://github.com/CriselPy)![Licencia](https://img.shields.io/github/license/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos)
+[![Follow me](https://img.shields.io/github/followers/octocat?style=social&label=Follow)](https://github.com/CriselPy)![Licencia](https://img.shields.io/github/license/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos)
 ![Último Commit](https://img.shields.io/github/last-commit/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos)
 ![Estrellas](https://img.shields.io/github/stars/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos)
 <a href="https://github.com/CriselPy" target="_blank">
