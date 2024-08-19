@@ -58,27 +58,26 @@ Instala las dependencias desde el archivo `requirements.txt` utilizando `pip` o 
 ## Preguntas y Respuestas
 1. **Pregunta 1:** Utilice `yfinance` para extraer datos bursátiles. Restablezca el índice, guarde y visualice las cinco primeras filas del marco de datos `tesla_data` utilizando la función `head`.
    **Captura de Pantalla:**
-   ![Pregunta 1: Tesla Data Head](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/raw/main/Pregunta-1-Tesla-Data-Head.png)
-
+   ![Pregunta 1: Tesla Data Head](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/blob/main/Pregunta%201%20Tesla%20Data%20Head.png)
 2. **Pregunta 2:** Utilizar Webscraping para extraer datos de ingresos de Tesla. Muestre las cinco últimas filas del marco de datos `tesla_revenue` utilizando la función `tail`.
    **Captura de Pantalla:**
-   ![Pregunta 2: Tesla Revenue Tail](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/Pregunta-2-Tesla-Revenue-Tail.png)
+   ![Pregunta 2: Tesla Revenue Tail](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/blob/main/Pregunta%202%20Tesla%20Revenue%20Tail.png)
 
 3. **Pregunta 3:** Utilice `yfinance` para extraer datos bursátiles. Restablezca el índice, guarde y visualice las cinco primeras filas del marco de datos `gme_data` utilizando la función `head`.
    **Captura de Pantalla:**
-   ![Pregunta 3: GME Data Head](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/Pregunta-3-GME-Data-Head.png)
+   ![Pregunta 3: GME Data Head](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/blob/main/Pregunta%203%20GME%20Data%20Head.png)
 
 4. **Pregunta 4:** Utilizar Webscraping para extraer datos de ingresos de GameStop. Muestre las cinco últimas filas del marco de datos `gme_revenue` utilizando la función `tail`.
    **Captura de Pantalla:**
-   ![Pregunta 4: GME Revenue Tail](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/raw/main/Pregunta-4-GME-Revenue-Tail.png)
+   ![Pregunta 4: GME Revenue Tail](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/blob/main/Pregunta%204%20GME%20Revenue%20Tail.png)
 
 5. **Pregunta 5:** Representar gráficamente las acciones de Tesla. Utilice la función `make_graph` para representar gráficamente los datos de las acciones de Tesla, proporcionando también un título para el gráfico.
    **Captura de Pantalla:**
-   ![Pregunta 5: Gráfico de Acciones de Tesla](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/raw/main/Pregunta-5-Gráfico-de-Acciones-de-Tesla.png)
+   ![Pregunta 5: Gráfico de Acciones de Tesla](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/blob/main/Pregunta%205%20Gr%C3%A1fico%20de%20Acciones%20de%20Tesla.png)
 
 6. **Pregunta 6:** Representar gráficamente las acciones de GameStop. Utilice la función `make_graph` para representar gráficamente los datos de las acciones de GameStop, proporcionando también un título para el gráfico.
    **Captura de Pantalla:**
-   ![Pregunta 6: Gráfico de Acciones de GameStop](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/raw/main/Pregunta-6-Gráfico-de-Acciones-de-GameStop.png)
+   ![Pregunta 6: Gráfico de Acciones de GameStop](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/blob/main/Pregunta%206%20Gr%C3%A1fico%20de%20Acciones%20de%20GameStop.png)
 
 ## Resultados
 El proyecto proporciona gráficos interactivos que permiten comparar los precios de acciones y los ingresos trimestrales de Tesla y GameStop. Estos gráficos facilitan la visualización de tendencias y patrones a lo largo del tiempo.
@@ -98,7 +97,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ## Contacto
 
-Para cualquier pregunta o comentario, contacta a <p style="color: #FF6348;">Cristina Ortega Trujillo</p>
+Para cualquier pregunta o comentario, contacta **Cristina Ortega Trujillo** 🪻
 <a href="https://github.com/CriselPy" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </a>
