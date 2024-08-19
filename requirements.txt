@@ -1,5 +1,5 @@
-yfinance==0.2.27
+yfinance>=0.2.27
 pandas==2.0.3
-requests==2.28.2
+requests>=2.31
 beautifulsoup4==4.12.2
 plotly==5.14.1
