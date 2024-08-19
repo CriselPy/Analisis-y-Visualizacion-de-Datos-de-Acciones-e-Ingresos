@@ -98,8 +98,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ## Contacto
 
-Para cualquier pregunta o comentario, contacta a <p style="color: #FF6347;">Cristina Ortega Trujillo</p>.
-
+Para cualquier pregunta o comentario, contacta a <p style="color: #FF6347;">Cristina Ortega Trujillo</p>
 <a href="https://github.com/CriselPy" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </a>
