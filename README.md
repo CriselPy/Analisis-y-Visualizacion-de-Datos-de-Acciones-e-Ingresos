@@ -13,14 +13,10 @@ Este proyecto analiza y visualiza datos históricos de precios de acciones e ing
 4. [Instalación](#instalación)
 5. [Preguntas y Respuestas](#preguntas-y-respuestas)
 6. [Resultados](#resultados)
-7. [Ejemplos de Gráficos](#ejemplos-de-gráficos)
-8. [Galería de Imágenes](#galería-de-imágenes)
-9. [Visualizaciones Interactivas](#visualizaciones-interactivas)
-10. [Estado del Proyecto](#estado-del-proyecto)
-11. [Contribuciones](#contribuciones)
-12. [Licencia](#licencia)
-13. [Contacto](#contacto)
-14. [Enlaces a Recursos Externos](#enlaces-a-recursos-externos)
+7. [Contribuciones](#contribuciones)
+8. [Licencia](#licencia)
+9. [Contacto](#contacto)
+10. [Enlaces a Recursos Externos](#enlaces-a-recursos-externos)
 
 ## Introducción
 Este proyecto tiene como objetivo analizar y visualizar la evolución histórica de los precios de acciones e ingresos trimestrales de Tesla (TSLA) y GameStop (GME). Utilizando la biblioteca `yfinance` para la extracción de datos financieros y técnicas de web scraping para obtener información de ingresos, este proyecto proporciona herramientas para una comparación visual detallada.
@@ -80,34 +76,6 @@ Instala las dependencias desde el archivo `requirements.txt` utilizando `pip` o 
 
 ## Resultados
 El proyecto proporciona gráficos interactivos que permiten comparar los precios de acciones y los ingresos trimestrales de Tesla y GameStop. Estos gráficos facilitan la visualización de tendencias y patrones a lo largo del tiempo.
-
-## Ejemplos de Gráficos:
-- **Gráfico de Acciones de Tesla**
-  ![Tesla Stock](ruta/a/tu/imagen_tesla.png)
-- **Gráfico de Ingresos de Tesla**
-  ![Tesla Income](ruta/a/tu/imagen_ingresos_tesla.png)
-- **Gráfico de Acciones de GameStop**
-  ![GameStop Stock](ruta/a/tu/imagen_gamestop.png)
-- **Gráfico de Ingresos de GameStop**
-  ![GameStop Income](ruta/a/tu/imagen_ingresos_gamestop.png)
-
-## Galería de Imágenes
-Aquí puedes ver algunos ejemplos de los gráficos generados por el proyecto:
-
-- **Gráfico de Acciones de Tesla:**
-  ![Tesla Stock](ruta/a/tu/imagen_tesla.png)
-- **Gráfico de Ingresos de Tesla:**
-  ![Tesla Income](ruta/a/tu/imagen_ingresos_tesla.png)
-- **Gráfico de Acciones de GameStop:**
-  ![GameStop Stock](ruta/a/tu/imagen_gamestop.png)
-- **Gráfico de Ingresos de GameStop:**
-  ![GameStop Income](ruta/a/tu/imagen_ingresos_gamestop.png)
-
-## Visualizaciones Interactivas
-Puedes acceder a visualizaciones interactivas de los datos utilizando las herramientas provistas por el proyecto. [Accede aquí](ruta/a/tu/enlace).
-
-## Estado del Proyecto
-El proyecto está en una fase de desarrollo activa y nuevas características están siendo implementadas. Consulta la sección de pull requests y issues para más detalles.
 
 ## Contribuciones
 Este proyecto fue desarrollado por [Cristina Ortega Trujillo](https://github.com/CriselPy) (nombre profesional: Crisel Nublo). La autoría del ejercicio original sin resolver para el Curso de Ciencia de Datos de IBM pertenece a Joseph Santarcangelo.
