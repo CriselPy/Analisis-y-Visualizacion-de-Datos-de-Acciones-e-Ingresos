@@ -62,11 +62,11 @@ Instala las dependencias desde el archivo `requirements.txt` utilizando `pip` o 
 
 2. **Pregunta 2:** Utilizar Webscraping para extraer datos de ingresos de Tesla. Muestre las cinco últimas filas del marco de datos `tesla_revenue` utilizando la función `tail`.
    **Captura de Pantalla:**
-   ![Pregunta 2: Tesla Revenue Tail](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/raw/main/Pregunta-2-Tesla-Revenue-Tail.png)
+   ![Pregunta 2: Tesla Revenue Tail](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/Pregunta-2-Tesla-Revenue-Tail.png)
 
 3. **Pregunta 3:** Utilice `yfinance` para extraer datos bursátiles. Restablezca el índice, guarde y visualice las cinco primeras filas del marco de datos `gme_data` utilizando la función `head`.
    **Captura de Pantalla:**
-   ![Pregunta 3: GME Data Head](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/raw/main/Pregunta-3-GME-Data-Head.png)
+   ![Pregunta 3: GME Data Head](https://github.com/CriselPy/Analisis-y-Visualizacion-de-Datos-de-Acciones-e-Ingresos/Pregunta-3-GME-Data-Head.png)
 
 4. **Pregunta 4:** Utilizar Webscraping para extraer datos de ingresos de GameStop. Muestre las cinco últimas filas del marco de datos `gme_revenue` utilizando la función `tail`.
    **Captura de Pantalla:**
