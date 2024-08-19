@@ -110,7 +110,7 @@ Puedes acceder a visualizaciones interactivas de los datos utilizando las herram
 El proyecto está en una fase de desarrollo activa y nuevas características están siendo implementadas. Consulta la sección de pull requests y issues para más detalles.
 
 ## Contribuciones
-Este proyecto fue desarrollado por [Cristina Ortega Trujillo](https://github.com/CriselPy) (nombre profesional: Crisel Nublo). La autoría del ejercicio original pertenece a Joseph Santarcangelo.
+Este proyecto fue desarrollado por [Cristina Ortega Trujillo](https://github.com/CriselPy) (nombre profesional: Crisel Nublo). La autoría del ejercicio original sin resolver para el Curso de Ciencia de Datos de IBM pertenece a Joseph Santarcangelo.
 
 Si deseas contribuir, sigue estos pasos:
 1. Haz un fork del repositorio.
