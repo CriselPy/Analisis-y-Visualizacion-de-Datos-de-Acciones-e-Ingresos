@@ -39,15 +39,18 @@ Este proyecto utiliza las siguientes bibliotecas de Python:
 Sigue estos pasos para configurar el entorno localmente:
 1. Clona el repositorio.
    
-   ```bash git clone https://github.com/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos.git
+   ```bash
+   git clone https://github.com/CriselPy/An-lisis-y-Visualizaci-n-de-Datos-de-Acciones-e-Ingresos.git
 
 2. Instala las dependencias:
 
-   ```bash pip install -r requirements.txt
+   ```bash
+    pip install -r requirements.txt
    
 Instala las dependencias desde el archivo `requirements.txt` utilizando `pip` o `conda`.
 
-   ```bash conda install --file requirements.txt
+   ```bash
+   conda install --file requirements.txt
 
 ```
 ## Preguntas y Respuestas
